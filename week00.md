@@ -3,14 +3,14 @@
 In a few short days we'll start our journey together to learn the basics of modern front-end web development. In the interest of getting off to a running start, here are some things that you can do to help the instruction team:
 
 ## General Admin Things
-1. Take this [Typing Test](https://www.typing.com/student/test/3) at least 3 times and average your typing wpm together.  Reremember your average wpm for step 6 below
+1. Take this [Typing Test](https://www.typing.com/student/test/3) at least 3 times and average your typing wpm together.  Remember your average wpm for step 6 below
 1. Take this [Personality Test](https://www.16personalities.com/free-personality-test) and remember your personality type for step 3 below
 1. Complete this form: [General Information](https://forms.gle/Yb5ixdHjVgiGsp7y5)
 ## Installs
 
 1. Install Google Chrome if you haven't already
 1. Visit [Zoom](https://zoom.us/) and sign up with the same email address you gave to NSS
-1. Donwload the [Zoom Client For Meetings](https://zoom.us/download#client_4meeting) and login to your zoom account there as well
+1. Download the [Zoom Client For Meetings](https://zoom.us/download#client_4meeting) and login to your zoom account there as well
 
 Typically we would do this on the second day of class. We'd break out to Windows/Mac groups and power through it. If you feel confident in your abilities to follow written instructions/use the terminal, please do so:
 1. [Mac Installs](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/setup.md#installs-for-mac---osx)
