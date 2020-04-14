@@ -16,4 +16,4 @@
 
 
 ## BONUS ASSIGNMENT
-Have a little extra time?  Give [THIS](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/CSS_zen_garden_challenge.md) a try!
+Have a little extra time?  Give [THIS](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/CSS_theme_challenge.md) a try!
