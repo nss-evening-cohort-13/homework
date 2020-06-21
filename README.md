@@ -14,7 +14,7 @@
 | [Week 9](./week09.md) | June 1 - 6, 2020 | Webpack |
 | [Week 10](./week10.md) | June 8 - 12, 2020 | Chatty Group Project |
 | [Week 11](./week11.md) | June 15 - 20, 2020 | None/Personal Site |
-| [Week 12](./week12.md) | June 22 - 27, 2020 | tdb |
+| [Week 12](./week12.md) | June 22 - 27, 2020 | Pinterest && Personal Site |
 | BREAK | June 29 - July 4, 2020 | timeoff |
 | [Week 13](./week13.md) | July 6 - 11, 2020 | tdb |
 | [Week 14](./week14.md) | July 13 - 18, 2020 | tdb |
