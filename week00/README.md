@@ -5,7 +5,7 @@ In a few short days we'll start our journey together to learn the basics of mode
 ## General Admin Things
 1. Take this [Typing Test](https://www.typing.com/student/test/3) at least 3 times and average your typing wpm together.  Remember your average wpm for step 6 below
 1. Take this [Personality Test](https://www.16personalities.com/free-personality-test) and remember your personality type for step 3 below
-1. Complete this form: [General Information](https://forms.gle/Yb5ixdHjVgiGsp7y5)
+1. Complete this form: [General Information](https://forms.gle/qjiWc8CKL2hmmukbA)
 ## Installs
 
 1. Install Google Chrome if you haven't already
