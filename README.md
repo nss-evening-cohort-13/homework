@@ -2,8 +2,8 @@
 
 | Week | Dates | Topic |
 |---|---|---|
-| [Week 0](./week00.md) | July 6 - July 11, 2020 | Just a few Things |
-| [Week 1](./week01.md) | July 6 - 11, 2020 | Getting Started |
+| [Week 0](./week00) | July 6 - July 11, 2020 | Just a few Things |
+| [Week 1](./week01) | July 6 - 11, 2020 | Getting Started |
 | [Week 2](./week02.md) | July 13 - 18, 2020 | tdb |
 | [Week 3](./week03.md) | July 20 - 25, 2020 | tdb |
 | [Week 4](./week04.md) | July 27 - August 01, 2020 | tdb |
