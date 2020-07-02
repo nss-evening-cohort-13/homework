@@ -1,4 +1,4 @@
-# E13 Homework
+# E13 Lessons and Homework
 
 | Week | Dates | Topic |
 |---|---|---|
