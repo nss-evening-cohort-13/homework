@@ -17,7 +17,7 @@ Typically we would do this on the second day of class. We'd break out to Windows
 1. [Windows Installs](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/setup.md#installs-for-windows)
 
 
-If you have any questions, drop them in the evening-cohort-12 slack channel.
+If you have any questions, drop them in the evening-cohort-13 slack channel.
 
 ## Prework
 1. [Prework](https://nashville-software-school.github.io/web-development-foundations/) - This should be your final push to get all the prework done. Ask questions in slack, answer questions in slack, and generally try to help each other out!
