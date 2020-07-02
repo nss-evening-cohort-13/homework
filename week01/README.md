@@ -1,4 +1,4 @@
-# HW Week 1 - DUE by Sunday April 12th at 10am but earlier is better
+# HW Week 1 - DUE by Sunday July 12th at 10am but earlier is better
 
 Start at the top of this list and work your way down.  Things are listed in priority order.  Finish #1 below before you go on to #2.
 
@@ -12,6 +12,6 @@ Start at the top of this list and work your way down.  Things are listed in prio
 1. Complete this form about [Studygroup Preference](https://forms.gle/2rkFzcAB6xG1UYzD9)
 
 ### Code Stuff
-1. [Prework](https://nashville-software-school.github.io/web-development-foundations/) - you should be done with this already but in case you aren't you need to be by monday.
+1. [Prework](https://nashville-software-school.github.io/web-development-foundations/) - you should be done with this already but in case you aren't you need to be by Monday.
 
 Finish everything? Good work!  Take this opportunity to have a nice long nap and/or a slice of pie!
