@@ -1,5 +1,9 @@
-# HW Week 1 - DUE by Sunday July 12th at 10am but earlier is better
+# Week 1
+[<< Back to Main](../README.md)
 
+Getting started is one of the most exciting and questionable times you will have in the program. We will work together to ensure that you are all set and ready to learn! Don't hesitate to ask for help. Operators are standing by! :wink:
+
+# HW Week 1 - DUE by Sunday July 12th at 10am but earlier is better
 Start at the top of this list and work your way down.  Things are listed in priority order.  Finish #1 below before you go on to #2.
 
 ## Study Group Assignment:
@@ -16,3 +20,5 @@ Start at the top of this list and work your way down.  Things are listed in prio
 1. [Prework](https://nashville-software-school.github.io/web-development-foundations/) - you should be done with this already but in case you aren't you need to be by Monday.
 
 Finish everything? Good work!  Take this opportunity to have a nice long nap and/or a slice of pie!
+
+[<< Back to Main](../README.md)
