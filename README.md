@@ -4,9 +4,9 @@
 |---|---|---|---|
 | [Week 0](./week00) | July 06 - July 11, 2020 | Just a few Things | N/A |
 | [Week 1](./week01) | July 06 - 11, 2020 | Getting Started | Monday \| Tuesday \| Saturday |
-| [Week 2](./week02) | July 13 - 18, 2020 | tdb | Monday \| Tuesday \| Saturday |
-| [Week 3](./week03) | July 20 - 25, 2020 | tdb | Monday \| Tuesday \| Saturday |
-| [Week 4](./week04) | July 27 - August 01, 2020 | tdb | Monday \| Tuesday \| Saturday |
+| [Week 2](./week02) | July 13 - 18, 2020 | HTML/CSS/Flexbox | Monday \| Tuesday \| Saturday |
+| [Week 3](./week03) | July 20 - 25, 2020 | JS, Dev Tools, DOM | Monday \| Tuesday \| Saturday |
+| [Week 4](./week04) | July 27 - August 01, 2020 | Events, Bootstrap | Monday \| Tuesday \| Saturday |
 | [Week 5](./week05) | August 03 - 08, 2020 | :jeans: Group Project - Pants :jeans: | N/A |
 | [Week 6](./week06) | August 10 - 15, 2020 | :jeans: Group Project - Pants :jeans: | N/A |
 | [Week 7](./week07) | August 17 - 22, 2020 | tdb | Monday \| Tuesday \| Saturday |
