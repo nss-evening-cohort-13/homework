@@ -6,7 +6,7 @@
 - [Homework](#hw-week-2)
 
 ## Monday
-> **Agenda:** github review, HTML
+> **Agenda:** student help review, github review, HTML
 
 ## Tuesday
 > **Agenda:** Git review, css, flexbox
