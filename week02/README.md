@@ -1,7 +1,7 @@
 [<< Back to Main](../README.md)
 
 # Week 2
-- Homework
+- [Homework](#hw-week-2)
 
 ## Monday
 > **Agenda:** github review, HTML
