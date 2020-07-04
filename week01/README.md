@@ -39,6 +39,7 @@ Start at the top of this list and work your way down.  Things are listed in prio
 
 ### Code Stuff
 1. [Prework](https://nashville-software-school.github.io/web-development-foundations/) - you should be done with this already but in case you aren't you need to be by Monday.
+1. Get acclimated with how we will be handling helping students by reviewing this README: [HERE](https://github.com/nss-evening-cohort-13/student-help/blob/master/README.md).
 
 Finish everything? Good work!  Take this opportunity to have a nice long nap and/or a slice of pie!
 
