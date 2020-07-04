@@ -2,7 +2,7 @@
 
 # Week 1
 
-[Homework](#hw-week-1---due-by-sunday-july-12th-at-10am-but-earlier-is-better)
+- [Homework](#hw-week-1---due-by-sunday-july-12th-at-10am-but-earlier-is-better)
 
 Getting started is one of the most exciting and questionable times you will have in the program. We will work together to ensure that you are all set and ready to learn! Don't hesitate to ask for help. Operators are standing by! :wink:
 
