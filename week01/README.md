@@ -3,6 +3,12 @@
 
 Getting started is one of the most exciting and questionable times you will have in the program. We will work together to ensure that you are all set and ready to learn! Don't hesitate to ask for help. Operators are standing by! :wink:
 
+## Admin Tools:
+1. **[ClassTracker](https://classtracker.drteresavasquez.com)** - ClassTracker is your one stop shop for the class agenda, getting help, and submitting your assignments. 
+1. GitHub - because we are all developers now!
+2. Kahootz - because learning can also be fun! This helps us to keep track of your progress by seeing how you are coming along with the topics we discuss.
+    
+
 # HW Week 1 - DUE by Sunday July 12th at 10am but earlier is better
 Start at the top of this list and work your way down.  Things are listed in priority order.  Finish #1 below before you go on to #2.
 
