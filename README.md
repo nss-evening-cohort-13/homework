@@ -1,6 +1,6 @@
 # E13 Lessons and Homework
 
-| Week | Dates | Topic | Zoom Links |
+| Week | Dates | Topic | Zoom Recording Links |
 |---|---|---|---|
 | [Week 0](./week00) | July 6 - July 11, 2020 | Just a few Things | N/A |
 | [Week 1](./week01) | July 6 - 11, 2020 | Getting Started | Monday \| Tuesday \| Saturday |
