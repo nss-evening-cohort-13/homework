@@ -10,8 +10,7 @@ Start at the top of this list and work your way down.  Things are listed in prio
 1. Create a [github account](https://github.com).  Future employers will see this and you don't want to change it (git history is important) so think carefully about what username you choose.  For almost all students I suggest just going with some version of your first and last name.
 1. Add your photo to slack **and** github.  Of your face - NOT your cat, dog, dinosaur, or BFF.  Your real face...semi recently.
 1. Complete this form about [Studygroup Preference](https://forms.gle/4bSob9L6E4uDpkT47)
-1. Go to the [classTracker app](https://classtracker.drteresavasquez.com) and click the "Login" button. NOTE: You have to have a githug account created already. A popup will appear and either flash or ask you to login. Then, nothing will happen. We will connect you to the app and let you know when you are good to go.
-1. NEW: Download the [Kahoot app](https://kahoot.com/home/mobile-app/) from the App Store on your iOS or Android Device. 
+1. Go to the [classTracker app](https://classtracker.drteresavasquez.com) and click the "Login" button. NOTE: You have to have a githug account created already. A popup will appear and either flash or ask you to login. Then, nothing will happen. We will connect you to the app and let you know when you are good to go. 
 
 ### Code Stuff
 1. [Prework](https://nashville-software-school.github.io/web-development-foundations/) - you should be done with this already but in case you aren't you need to be by Monday.
