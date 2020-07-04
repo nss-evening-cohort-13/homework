@@ -3,11 +3,20 @@
 
 Getting started is one of the most exciting and questionable times you will have in the program. We will work together to ensure that you are all set and ready to learn! Don't hesitate to ask for help. Operators are standing by! :wink:
 
-## Admin Tools:
-1. **[ClassTracker](https://classtracker.drteresavasquez.com)** - ClassTracker is your one stop shop for the class agenda, getting help, and submitting your assignments. 
-1. GitHub - because we are all developers now!
-2. Kahoot - because learning can also be fun! This helps us to keep track of your progress by seeing how you are coming along with the topics we discuss.
-    
+## Monday
+> **Agenda:** Introductions, John's Intro talk, Class Expectations
+
+## Tuesday
+> **Agenda:** classTracker, command line, VS code
+
+<!-- [ClassTracker](https://classtracker.drteresavasquez.com), [Command Line Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/command-line.md), [VS Code Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/vs_code.md) -->
+
+## Saturday
+> **Agenda:** Intro to git, git SSH setup, git branching
+<!-- [Github Setup Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/github-setup.md)
+[Git Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/git-and-github.md)
+[Git Branching Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/git-branching.md) -->
+---
 
 # HW Week 1 - DUE by Sunday July 12th at 10am but earlier is better
 Start at the top of this list and work your way down.  Things are listed in priority order.  Finish #1 below before you go on to #2.
