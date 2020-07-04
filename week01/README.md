@@ -21,6 +21,7 @@ Start at the top of this list and work your way down.  Things are listed in prio
 1. Add your photo to slack **and** github.  Of your face - NOT your cat, dog, dinosaur, or BFF.  Your real face...semi recently.
 1. Complete this form about [Studygroup Preference](https://forms.gle/4bSob9L6E4uDpkT47)
 1. Go to the [classTracker app](https://classtracker.drteresavasquez.com) and click the "Login" button. **_NOTE: You have to have a github account created already._** A popup will appear and either flash or ask you to login. Then, nothing will happen. We will connect you to the app and let you know when you are good to go. 
+1. If you have not already, download the [Kahoot app](https://kahoot.com/home/mobile-app/) from the App Store on your iOS or Android Device.
 
 ### Code Stuff
 1. [Prework](https://nashville-software-school.github.io/web-development-foundations/) - you should be done with this already but in case you aren't you need to be by Monday.
