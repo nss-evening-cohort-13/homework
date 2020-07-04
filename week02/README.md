@@ -1,5 +1,7 @@
 [<< Back to Main](../README.md)
 
+---
+
 # Week 2
 - [Homework](#hw-week-2)
 
@@ -15,3 +17,6 @@
 # HW Week 2
 ### Check ClassTracker for Due Dates
 
+
+---
+[<< Back to Main](../README.md)

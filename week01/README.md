@@ -1,5 +1,7 @@
 [<< Back to Main](../README.md)
 
+---
+
 # Week 1
 
 - [Homework](#hw-week-1---due-by-sunday-july-12th-at-10am-but-earlier-is-better)
@@ -40,4 +42,5 @@ Start at the top of this list and work your way down.  Things are listed in prio
 
 Finish everything? Good work!  Take this opportunity to have a nice long nap and/or a slice of pie!
 
+---
 [<< Back to Main](../README.md)
