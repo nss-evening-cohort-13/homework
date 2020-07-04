@@ -12,7 +12,7 @@
 > **Agenda:** Git review, css, flexbox
 
 ## Saturday
-> **Agenda:**: **Lab Day** - exercises
+> **Agenda:** **Lab Day** - exercises
 ---
 # HW Week 2
 ### Check ClassTracker for Due Dates
