@@ -20,7 +20,7 @@
 | [Week 15](./week15) | October 12 - 17, 2020 | tdb | Monday \| Tuesday \| Saturday |
 | [Week 16](./week16) | October 19 - 24, 2020 | tdb | Monday \| Tuesday \| Saturday |
 | [Week 17](./week17) | October 26 - 31, 2020 | tdb | Monday \| Tuesday \| Saturday |
-| [Week 18](./week18) | November 02 - 7, 2020 | tdb | Monday \| Tuesday \| Saturday |
+| [Week 18](./week18) | November 02 - 07, 2020 | tdb | Monday \| Tuesday \| Saturday |
 | [Week 19](./week19) | November 09 - 14, 2020 | tdb | Monday \| Tuesday \| Saturday |
 | [Week 20](./week20) | November 16 - 21, 2020 | tdb | Monday \| Tuesday \| Saturday |
 | [Week 21](./week21) | November 23 - 28, 2020 | tdb | Monday \| Tuesday \| Saturday |
