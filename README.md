@@ -2,7 +2,7 @@
 
 | Week | Dates | Topic | Zoom Links |
 |---|---|---|---|
-| [Week 0](./week00) | July 6 - July 11, 2020 | Just a few Things | Monday \| Tuesday \| Saturday |
+| [Week 0](./week00) | July 6 - July 11, 2020 | Just a few Things | N/A |
 | [Week 1](./week01) | July 6 - 11, 2020 | Getting Started | Monday \| Tuesday \| Saturday |
 | [Week 2](./week02) | July 13 - 18, 2020 | tdb | Monday \| Tuesday \| Saturday |
 | [Week 3](./week03) | July 20 - 25, 2020 | tdb | Monday \| Tuesday \| Saturday |
