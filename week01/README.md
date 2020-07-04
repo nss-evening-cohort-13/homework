@@ -6,7 +6,7 @@ Getting started is one of the most exciting and questionable times you will have
 ## Admin Tools:
 1. **[ClassTracker](https://classtracker.drteresavasquez.com)** - ClassTracker is your one stop shop for the class agenda, getting help, and submitting your assignments. 
 1. GitHub - because we are all developers now!
-2. Kahootz - because learning can also be fun! This helps us to keep track of your progress by seeing how you are coming along with the topics we discuss.
+2. Kahoot - because learning can also be fun! This helps us to keep track of your progress by seeing how you are coming along with the topics we discuss.
     
 
 # HW Week 1 - DUE by Sunday July 12th at 10am but earlier is better
