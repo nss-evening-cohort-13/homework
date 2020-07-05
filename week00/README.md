@@ -1,5 +1,7 @@
-# HW Week 0 - Things to do before class!!!
 [<< Back to Main](../README.md)
+
+---
+# HW Week 0 - Things to do before class!!!
 
 In a few short days we'll start our journey together to learn the basics of modern front-end web development. In the interest of getting off to a running start, here are some things that you can do to help the instruction team:
 
@@ -27,4 +29,5 @@ If you have any questions, drop them in the evening-cohort-13 slack channel.
 ## First Day Stuff!!!
 We'll share the zoom call information through slack. The call will be scheduled to start at 5:30 on April 6, 30 minutes before class time, which should give everybody enough time to make sure they are able to join. If you have any issues, make some noise! We can't help if we don't know.
 
+---
 [<< Back to Main](../README.md)
