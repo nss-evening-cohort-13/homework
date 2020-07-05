@@ -16,7 +16,6 @@
 ---
 # HW Week 5
 ### Check ClassTracker for Due Dates
-
 <!-- - Group: Project Planning -->
 
 ---
