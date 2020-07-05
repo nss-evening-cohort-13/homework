@@ -12,6 +12,7 @@
 
 ## Saturday
 > **Agenda:** **Lab Day** - Github for teams
+<!-- - [Pull Request Template](code/PULL_REQUEST_TEMPLATE.md) -->
 ---
 # HW Week 5
 ### Check ClassTracker for Due Dates
