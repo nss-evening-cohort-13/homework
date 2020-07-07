@@ -5,20 +5,35 @@
 # Week 1
 
 - [Homework](#hw-week-1---due-by-sunday-july-12th-at-10am-but-earlier-is-better)
+- [Monday](#Monday)
+- [Tuesday](#Tuesday)
+- [Saturday](#Saturday)
 
 Getting started is one of the most exciting and questionable times you will have in the program. We will work together to ensure that you are all set and ready to learn! Don't hesitate to ask for help. Operators are standing by! :wink:
 
 ## Monday
 > **Agenda:** Introductions, John's Intro talk, [Class Expectations](https://drive.google.com/file/d/1GF830xP5tWY9v5O9Zrs7hjOsJlizn6XV/view?usp=sharing)
 
+**CLASS NOTES:**
+- If you will be absent, make sure to email both John and Dr. T
+- Ask questions
+
+---
+
 ## Tuesday
 > **Agenda:** [ClassTracker](https://classtracker.drteresavasquez.com), [Command Line Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/command-line.md), [VS Code Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/vs_code.md)
+
+**CLASS NOTES:**
+- ClassTracker is the one stop shop for assignments, technical help, and submissions.
+
+---
 
 ## Saturday
 > **Agenda:** Intro to git, git SSH setup, git branching
 <!-- [Github Setup Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/github-setup.md)
 [Git Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/git-and-github.md)
 [Git Branching Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/git-branching.md) -->
+
 ---
 
 # HW Week 1 - DUE by Sunday July 12th at 10am but earlier is better
