@@ -9,12 +9,10 @@
 Getting started is one of the most exciting and questionable times you will have in the program. We will work together to ensure that you are all set and ready to learn! Don't hesitate to ask for help. Operators are standing by! :wink:
 
 ## Monday
-> **Agenda:** Introductions, John's Intro talk, Class Expectations
+> **Agenda:** Introductions, John's Intro talk, [Class Expectations](https://drive.google.com/file/d/1GF830xP5tWY9v5O9Zrs7hjOsJlizn6XV/view?usp=sharing)
 
 ## Tuesday
-> **Agenda:** classTracker, command line, VS code
-
-<!-- [ClassTracker](https://classtracker.drteresavasquez.com), [Command Line Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/command-line.md), [VS Code Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/vs_code.md) -->
+> **Agenda:** [ClassTracker](https://classtracker.drteresavasquez.com), [Command Line Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/command-line.md), [VS Code Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/vs_code.md)
 
 ## Saturday
 > **Agenda:** Intro to git, git SSH setup, git branching
