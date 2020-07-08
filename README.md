@@ -3,7 +3,7 @@
 | Week | Dates | Topic | Zoom Recording Links |
 |---|---|---|---|
 | [Week 0](./week00) | July 06 - July 11, 2020 | Just a few Things | N/A |
-| [Week 1](./week01) | July 06 - 11, 2020 | Getting Started | Tuesday \| Saturday |
+| [Week 1](./week01) | July 06 - 11, 2020 | Getting Started | [Tuesday](https://us02web.zoom.us/rec/share/v_VxdpD-2GhIfoHquB-Ac4VwPY25T6a803JL-fQLmUwcW4Yn5820RG4vXj-3d9rR) \| Saturday |
 | [Week 2](./week02) | July 13 - 18, 2020 | HTML/CSS/Flexbox | Monday \| Tuesday \| Saturday |
 | [Week 3](./week03) | July 20 - 25, 2020 | JS, Dev Tools, DOM | Monday \| Tuesday \| Saturday |
 | [Week 4](./week04) | July 27 - August 01, 2020 | Events, Bootstrap | Monday \| Tuesday \| Saturday |
