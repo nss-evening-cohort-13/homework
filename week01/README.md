@@ -21,7 +21,7 @@ Getting started is one of the most exciting and questionable times you will have
 ---
 
 ## Tuesday
-> **Agenda:** [ClassTracker](https://classtracker.drteresavasquez.com), [Command Line Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/command-line.md), [VS Code Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/vs_code.md)
+> **Agenda:** [ClassTracker](https://classtracker.drteresavasquez.com), [Command Line Notes](https://github.com/nashville-software-school/client-side-mastery/blob/master/book-1-the-novice/chapters/CLI_BASICS.md), [VS Code Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/vs_code.md)
 
 **CLASS NOTES:**
 - ClassTracker is the one stop shop for assignments, technical help, and submissions.
