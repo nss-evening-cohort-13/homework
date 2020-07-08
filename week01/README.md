@@ -25,6 +25,7 @@ Getting started is one of the most exciting and questionable times you will have
 
 **CLASS NOTES:**
 - ClassTracker is the one stop shop for assignments, technical help, and submissions.
+- Zoom Recording PW: 6E@3076r
 
 ---
 
