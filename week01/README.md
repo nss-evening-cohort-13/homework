@@ -31,9 +31,9 @@ Getting started is one of the most exciting and questionable times you will have
 
 ## Saturday
 > **Agenda:** Intro to git, git SSH setup, git branching
-<!-- [Github Setup Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/github-setup.md)
+[Github Setup Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/github-setup.md)
 [Git Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/git-and-github.md)
-[Git Branching Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/git-branching.md) -->
+[Git Branching Notes](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/git-branching.md)
 
 ---
 
