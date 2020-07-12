@@ -19,6 +19,8 @@
 ### Check ClassTracker for Due Dates
 
 ## Study Group Assignment:
+**See ClassTracker for your Study Group Members**
+
 ### 1. [Product Cards](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/HTML_CSS_product_cards.md) - Due Jul 21, 2020
 - **Each** person should create a github assignment repo named `ASSIGNMENT-product-cards`
 -  **Each** person should create a local folder in this location: `~/workspace/foundations/exercises/product-cards`. 
