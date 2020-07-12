@@ -3,6 +3,7 @@
 ---
 
 # Week 2
+- [Study Group Assignment](#study-group-assignment) - **See [ClassTracker](https://classtracker.drteresavasquez.com] for your Study Group Members**
 - [Homework](#hw-week-2)
 
 ## Monday
