@@ -8,8 +8,8 @@
 
 ## Monday
 > **Agenda:** HTML
-- [HTML Components](HTML_COMPONENTS.md)
-- [In Class Practice](HTML_COMPONENTS.md#practice)
+- [HTML Components](HTML_Components.md)
+- [In Class Practice](HTML_Components.md#practice)
 
 #### Extra Reading
 - [Semantic HTML For Meaningful Webpages](https://seekbrevity.com/semantic-markup-important-web-design/)
@@ -25,7 +25,7 @@
 - Group Assignment - **Submit on Class Tracker**
 - Practice Challenges:
     - [BONUS](#bonus-assignment)
-    - [HTML - GovTrack - Congressional District Map](HTML_COMPONENTS.md#practice)
+    - [HTML - GovTrack - Congressional District Map](HTML_Components.md#practice)
     - [CSS Selectors](CSS_SELECTORS.md#practice)
     - [Coffee Houses of Nashville - Flexbox](FLEXBOX.md#practice-coffee-houses-of-nashville)
 ---
