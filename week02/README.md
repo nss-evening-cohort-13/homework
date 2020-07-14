@@ -9,7 +9,7 @@
 ## Monday
 > **Agenda:** HTML
 - [HTML Components](HTML_Components.md)
-- [In Class Practice](HTML_Components.md#practice)
+- [PRACTICE](HTML_Components.md#practice)
 
 > ### Monday Code
 - [Star Wars](./code/html101)
