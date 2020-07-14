@@ -11,7 +11,7 @@
 - [HTML Components](HTML_Components.md)
 - [In Class Practice](HTML_Components.md#practice)
 
-### Monday Code
+> ### Monday Code
 - [Star Wars](./code/html101)
 
 #### Extra Reading
