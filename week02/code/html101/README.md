@@ -24,7 +24,7 @@
 ```
 
 ## HTML Part 2 - navigation
-1. HMake a navigation branch
+1. Make a navigation branch
 1. In the index build the nav bar
 1. Add styling to CSS file
 1. Create droids.html and people.html to test that links work
