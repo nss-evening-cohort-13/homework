@@ -1,0 +1,62 @@
+body {
+  background-color: lightgray;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  list-style-type: none;
+  padding: 0;
+  background-color: #333;
+  height: 50px;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  color: white;
+  padding: 14px 16px;
+  display: block;
+  text-decoration: none;
+  font-family: "Press Start 2P", cursive;
+}
+
+li a:hover {
+  background-color: #000;
+}
+
+section {
+  padding: 20px;
+  border: 1px dashed red;
+  margin: 10px;
+  border-radius: 10px;
+}
+section:last-of-type {
+    margin-bottom: 50px;
+}
+
+footer {
+  color: white;
+  background-color: #333;
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  height: 30px;
+}
+
+.card {
+    border: 1px solid blue;
+    width: 30%;
+    float: left;
+    margin: 5px;
+}
+
+.card img {
+    width: 100%;
+}
+

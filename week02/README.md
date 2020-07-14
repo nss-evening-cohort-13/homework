@@ -11,6 +11,9 @@
 - [HTML Components](HTML_Components.md)
 - [In Class Practice](HTML_Components.md#practice)
 
+### Monday Code
+- [Star Wars](./code/html101)
+
 #### Extra Reading
 - [Semantic HTML For Meaningful Webpages](https://seekbrevity.com/semantic-markup-important-web-design/)
 
