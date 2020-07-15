@@ -22,6 +22,9 @@
 - [CSS Selectors](CSS_SELECTORS.md)
 - [Flexbox](FLEXBOX.md)
 
+> ### Tuesday Code
+- [Animales](./code/flexbox-intro)
+
 ## Saturday
 > **Agenda:** **Lab Day** - Exercises
 - Individual Assignments - **Submit on Class Tracker**
