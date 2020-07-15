@@ -7,6 +7,7 @@ body {
   background-color: antiquewhite;
 }
 
+/****** NAVIGATION  ********/
 .navigation {
     display: flex;
     justify-content: space-between;
@@ -44,3 +45,17 @@ ul a {
 ul a:hover {
     background: #00ace6;
 }
+
+/****** DOGS  ********/
+
+.dogs {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.dogs img {
+    width: 200px;
+    margin: 20px;
+}
+
