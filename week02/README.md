@@ -36,7 +36,7 @@
     - [Coffee Houses of Nashville - Flexbox](FLEXBOX.md#practice-coffee-houses-of-nashville)
 ---
 # HW Week 2
-## Individual Assignment(s) - Due by June 19, 2020:
+## Individual Assignment(s)
 1.  Have 30 repos (test1-test30). Each of these repos should live here: `~/workspace/foundations/exercises`.  DO NOT DO ALL REPOS ON THE SAME DAY.  Maximum of 5 repos per day.  Each repo should have:
     * Each repo should start with a README.md file that you push to master branch
     * Each repo should have a setup branch. This branch should have 3 files - index.html, main.css, and main.js. The index.html file should have html boilerplate, link to the CSS file, script tag to the JS file. The css file should change the background color.  The JS file should have a console.log of your choice
@@ -51,7 +51,7 @@
 ## BONUS ASSIGNMENT
 Have a little extra time?  Give [THIS](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/CSS_theme_challenge.md) a try!
 
-## Study Group Assignment:
+## Study Group Assignment
 ### 1. [Product Cards](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/HTML_CSS_product_cards.md) - Due Jul 21, 2020
 - **Each** person should create a github assignment repo named `ASSIGNMENT-product-cards`
 -  **Each** person should create a local folder in this location: `~/workspace/foundations/exercises/product-cards`. 
