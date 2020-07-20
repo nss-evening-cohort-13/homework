@@ -5,7 +5,7 @@
 - [Homework](#hw-week-3)
 
 ## Monday
-> **Agenda:** JS OVERVIEW - Data Types and Stuctures, Functions, Arrays, and Objects
+> **Agenda:** JS OVERVIEW - Data Types and Structures, Functions, Arrays, and Objects
 
 ## Tuesday
 > **Agenda:** dev tools, DOM, loops
