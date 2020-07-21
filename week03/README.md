@@ -5,13 +5,13 @@
 - [Homework](#hw-week-3)
 
 ## Monday
-> **Agenda:** JS OVERVIEW - Data Types and Structures, Functions, Arrays, and Objects
+> **Agenda:** JS OVERVIEW - [Data Types and Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures), [Functions](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/js-functions.md), [ES6 vs ES5](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/es6-vs-es5.md), and [Arrays](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/js-array-methods.md)
 
 ## Tuesday
-> **Agenda:** dev tools, DOM, loops
+> **Agenda:** Objects, combos (not Burger King), DOM, loops
 
 ## Saturday
-> **Agenda:** **Lab Day** - exercises
+> **Agenda:** **Lab Day** - Dev tools and exercises
 ---
 # HW Week 3
 ### => Check ClassTracker for Due Dates
