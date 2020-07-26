@@ -89,19 +89,19 @@ const buildAssignmentCards = () => {
 
   for (let j = 0; j < assignments.length; j++) {
     domString += `<div class="assignment">`;
-    domString +=    `<div class="assignment-title">${assignments[j].title}</div>`;
-    domString +=    `<strong>Due Date: ${assignments[j].dueDate}</strong>`;
-    domString +=    `<div>Get the assignment <a href=${assignments[j].assignmentUrl}>HERE</a></div>`;
-    domString +=    `<div>Topic: ${assignments[j].topic}</div>`;
-    domString +=    `<div>Notes: ${assignments[j].notes}</div>`;
+    domString += `<div class="assignment-title">${assignments[j].title}</div>`;
+    domString += `<strong>Due Date: ${assignments[j].dueDate}</strong>`;
+    domString += `<div>Get the assignment <a href=${assignments[j].assignmentUrl}>HERE</a></div>`;
+    domString += `<div>Topic: ${assignments[j].topic}</div>`;
+    domString += `<div>Notes: ${assignments[j].notes}</div>`;
     domString += `</div>`;
   }
-  printToDom('assignments', domString);
+  printToDom("assignments", domString);
 };
 
 const init1 = () => {
-    buildDinosaurs();
-    buildAssignmentCards();
-}
+  buildDinosaurs();
+  buildAssignmentCards();
+};
 
-init1()
+init1();
