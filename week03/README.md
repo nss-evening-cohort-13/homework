@@ -8,10 +8,10 @@
 > **Agenda:** JS OVERVIEW - [Data Types and Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures), [Functions](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/js-functions.md), [ES6 vs ES5](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/es6-vs-es5.md), and [Arrays](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/js-array-methods.md)
 
 ## Tuesday
-> **Agenda:** Objects, combos (not Burger King), DOM, loops
+> **Agenda:** Combos (not Burger King),  loops
 
 ## Saturday
-> **Agenda:** **Lab Day** - Dev tools and exercises
+> **Agenda:** **Lab Day** - Objects, DOM, Dev tools and exercises
 ---
 # HW Week 3
 ### => Check ClassTracker for Due Dates
