@@ -6,7 +6,7 @@
 | [Week 1](./week01/README.md) | July 06 - 11, 2020 | Getting Started |
 | [Week 2](./week02/README.md) | July 13 - 18, 2020 | HTML/CSS/Flexbox |
 | [Week 3](./week03/README.md) | July 20 - 25, 2020 | JS, Dev Tools, DOM |
-| [Week 4](./week04/README.md) | July 27 - August 01, 2020 | Events, Bootstrap |
+| [Week 4](./week04/README.md) | July 27 - August 01, 2020 | Event Listeners, Callbacks, Bootstrap |
 | [Week 5](./week05/README.md) | August 03 - 08, 2020 | Wireframes, github projects & teams |
 | [Week 6](./week06/README.md) | August 10 - 15, 2020 | :jeans: Group Project - Pants :jeans: |
 | [Week 7](./week07/README.md) | August 17 - 22, 2020 | tdb |

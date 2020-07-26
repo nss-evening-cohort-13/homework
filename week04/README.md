@@ -8,7 +8,7 @@
 > **Agenda:** Basic Event listeners, Callbacks, Bootstrap
 
 ## Tuesday
-> **Agenda:** Hack Tuesdays
+> **Agenda:** Hack Tuesday
 
 ## Saturday
 > **Agenda:** **Lab Day** - Challenge and Exercises
