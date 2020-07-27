@@ -80,7 +80,7 @@ const buildDinosaurs = () => {
     domString += `<h3>${dinosaurs[i].dinoType}</h3>`;
     domString += `<p>${dinosaurs[i].name}</p>`;
     domString += `</div>`;
-  }
+  } 
   printToDom("dino-barn", domString);
 };
 
