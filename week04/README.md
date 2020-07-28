@@ -7,6 +7,8 @@
 ## Monday
 > **Agenda:** Basic Event listeners, Callbacks, Bootstrap
 
+- [Code: Event Listners, Bootstrap, and Callbacks](./code/event-listeners/README.md)
+
 ## Tuesday
 > **Agenda:** Hack Tuesday
 
