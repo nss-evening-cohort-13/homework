@@ -13,11 +13,13 @@
 > **Agenda:** Hack Tuesday
 
 :clap: Team Projects: :clap:
-- [Code Warriors Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-code-warriors-team-4) | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-code-warriors-team-4/setup/)
-- [Funky Code Bots Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-funky-code-bots) | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-funky-code-bots/setup/#)
-- [Coolest Cats Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-the-coolest-cats-team-2) | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-the-coolest-cats-team-2/setup/)
-- [The Nerd Herd Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-the-nerd-herd) | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-the-nerd-herd/setup/)
-- [Team Pandas Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-team-pandas) | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-team-pandas/setup/)
+| Team Code                                                                                             | Deployed Project |
+|-------------------------------------------------------------------------------------------------------|------------------|
+| [Code Warriors Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-code-warriors-team-4) | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-code-warriors-team-4/setup/)
+| [Funky Code Bots Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-funky-code-bots)   | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-funky-code-bots/setup/#)
+| [Coolest Cats Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-the-coolest-cats-team-2) | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-the-coolest-cats-team-2/setup/)
+| [The Nerd Herd Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-the-nerd-herd) | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-the-nerd-herd/setup/)
+| [Team Pandas Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-team-pandas) | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-team-pandas/setup/)
 
 ## Saturday
 > **Agenda:** **Lab Day** - Challenge and Exercises
