@@ -12,7 +12,7 @@
 ## Tuesday
 > **Agenda:** Hack Tuesday
 
-:clap: Team Projects: :clap:
+:clap: :clap: Team Projects: Color Flipper :clap: :clap:
 | Team Code                                                                                             | Deployed Project |
 |-------------------------------------------------------------------------------------------------------|------------------|
 | [Code Warriors Code](https://github.com/nss-evening-cohort-13/color-flipper-hack-code-warriors-team-4) | [Project](https://nss-evening-cohort-13.github.io/color-flipper-hack-code-warriors-team-4/setup/)
