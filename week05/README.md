@@ -8,10 +8,10 @@
 > **Agenda:** Wireframes, github projects
 
 ## Tuesday
-> **Agenda:** Group Projects - Pants - PLANNING ONLY
+> **Agenda:** Hack Night
 
 ## Saturday
-> **Agenda:** **Lab Day** - Github for teams
+> **Agenda:** **Lab Day** - Github for teams, Group Projects - Pants - PLANNING ONLY
 <!-- - [Pull Request Template](code/PULL_REQUEST_TEMPLATE.md) -->
 <!-- SHOW HOW IT WORKS WITH PR REQUEST -->
 ---
