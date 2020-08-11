@@ -1,4 +1,27 @@
-# Week 7
 [<< Back to Main](../README.md)
 
+---
+# Week 7
+- [Homework](#hw-week-7)
+
+## Monday
+> **Agenda:** Pants demos, retrospective, markdown
+
+## Tuesday
+> **Agenda:** Basic ES6 Modules
+
+## Saturday
+> **Agenda:** **Lab Day** - ES6 Modules & exercises
+---
 # HW Week 7
+### => Check ClassTracker for Due Dates
+
+## Individual Assignments
+1. [Shaping Data with Array Methods](./JS_ARRAY_METHODS.md)
+1. Readmes for EVERY assignment on classtracker (resubmit assignments when they are done)
+
+## Study Group Assignment:
+1. BEAR WATCHER: Talk through how you are going to do the coding then do the coding individually.
+
+---
+[<< Back to Main](../README.md)
