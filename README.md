@@ -9,12 +9,12 @@
 | [Week 4](./week04/README.md) | July 27 - August 01, 2020 | Event Listeners, Callbacks, Bootstrap |
 | [Week 5](./week05/README.md) | August 03 - 08, 2020 | Wireframes, github projects & teams, how to plan |
 | [Week 6](./week06/README.md) | August 10 - 15, 2020 | :jeans: Group Project - Pants :jeans: |
-| [Week 7](./week07/README.md) | August 17 - 22, 2020 | Pants demos, retrospective, markdown, Milestone 1 review |
-| [Week 8](./week08/README.md) | August 24 - 29, 2020 | ES6 Modules and JQuery |
-| [Week 9](./week09/README.md) | August 31 - September 5, 2020 | Task runners and SASS |
+| [Week 7](./week07/README.md) | August 17 - 22, 2020 | Pants demos, retrospective, markdown, Basic ES6 Modules |
+| [Week 8](./week08/README.md) | August 24 - 29, 2020 | JQuery, Session Storage, Milestone 1 Review Project |
+| [Week 9](./week09/README.md) | August 31 - September 5, 2020 | Task runners, SASS, Axios, promises and API |
 | [Week 10](./week10/README.md) | September 07 - 12, 2020 | :speech_balloon: Group Project - Chatty :speech_balloon:|
-| [Week 11](./week11/README.md) | September 15 - 19, 2020 | Demo Chatty, Firebase Auth, promises, and ERDs |
-| [Week 12](./week12/README.md) | September 21 - 26, 2020 | JSON, Axios, Firebse read, Firebase delete |
+| [Week 11](./week11/README.md) | September 15 - 19, 2020 | Demo Chatty, Firebase Auth, and ERDs |
+| [Week 12](./week12/README.md) | September 21 - 26, 2020 | JSON, Firebse read, Firebase delete |
 | [Week 13](./week13/README.md) | September 28 - October 3, 2020 | BREAK |
 | [Week 14](./week14/README.md) | October 05 - 10, 2020 | tdb |
 | [Week 15](./week15/README.md) | October 12 - 17, 2020 | tdb |
