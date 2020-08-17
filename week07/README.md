@@ -6,6 +6,7 @@
 
 ## Monday
 > **Agenda:** Pants demos, retrospective, JQuery
+- [JQuery and Array Methods Repo](https://github.com/nss-evening-cohort-13/jquery-and-array-methods-starter)
 
 ## Tuesday
 > **Agenda:** Basic ES6 Modules
