@@ -10,7 +10,7 @@
 | [Week 5](./week05/README.md) | August 03 - 08, 2020 | Wireframes, github projects & teams, how to plan |
 | [Week 6](./week06/README.md) | August 10 - 15, 2020 | :jeans: Group Project - Pants :jeans: |
 | [Week 7](./week07/README.md) | August 17 - 22, 2020 | Pants demos, retrospective, markdown, Basic ES6 Modules |
-| [Week 8](./week08/README.md) | August 24 - 29, 2020 | JQuery, Session Storage, Milestone 1 Review Project |
+| [Week 8](./week08/README.md) | August 24 - 29, 2020 | JQuery, Browser Storage, Milestone 1 Review Project |
 | [Week 9](./week09/README.md) | August 31 - September 5, 2020 | Task runners, SASS, Axios, promises and API |
 | [Week 10](./week10/README.md) | September 07 - 12, 2020 | :speech_balloon: Group Project - Chatty :speech_balloon:|
 | [Week 11](./week11/README.md) | September 15 - 19, 2020 | Demo Chatty, Firebase Auth, and ERDs |
