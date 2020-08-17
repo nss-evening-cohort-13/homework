@@ -5,7 +5,7 @@
 - [Homework](#hw-week-7)
 
 ## Monday
-> **Agenda:** Pants demos, retrospective, markdown
+> **Agenda:** Pants demos, retrospective, JQuery
 
 ## Tuesday
 > **Agenda:** Basic ES6 Modules
