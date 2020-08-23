@@ -5,13 +5,13 @@
 - [Homework](#hw-week-8)
 
 ## Monday
-> **Agenda:** jQuery Add local and session storage
+> **Agenda:** DOM storage
 
 ## Tuesday
-> **Agenda:** Milestone 1 review - Planning
+> **Agenda:** ERDs
 
 ## Saturday
-> **Agenda:** **Lab Day** - Milestone 1 review - Coding
+> **Agenda:** **Lab Day** - Task runners, SASS
 ---
 # HW Week 8
 ## Individual Assignments
