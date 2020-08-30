@@ -8,10 +8,10 @@
 > **Agenda:** Group Projects - Chatty
 
 ## Tuesday
-> **Agenda:** Demo Chatty
+> **Agenda:** CDS Talk, Demo Chatty, ERDS
 
 ## Saturday
-> **Agenda:** **Lab Day** - ERDS, JSON, axios
+> **Agenda:** **Lab Day** - Intro to Firebase, Firebase Auth, JSON, axios
 ---
 # HW Week 11
 
