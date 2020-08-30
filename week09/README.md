@@ -5,13 +5,13 @@
 - [Homework](#hw-week-9)
 
 ## Monday
-> **Agenda:** Webpack, SASS, .gitignore
+> **Agenda:** Webpack
 
 ## Tuesday
-> **Agenda:** Promises and API
+> **Agenda:** SASS
 
 ## Saturday
-> **Agenda:** **Lab Day** - Promises and API Cont.
+> **Agenda:** **Lab Day** - Exercises
 
 # HW Week 9
 ### => Check ClassTracker for Due Dates
