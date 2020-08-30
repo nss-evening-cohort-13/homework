@@ -13,7 +13,7 @@
 | [Week 8](./week08/README.md) | August 24 - 29, 2020 | JQuery, Browser Storage, Milestone 1 Review Project |
 | [Week 9](./week09/README.md) | August 31 - September 5, 2020 | Task runners, SASS |
 | [Week 10](./week10/README.md) | September 07 - 12, 2020 | :speech_balloon: Group Project - Chatty :speech_balloon:|
-| [Week 11](./week11/README.md) | September 15 - 19, 2020 | Demo Chatty, ERDS, JSON, axios |
+| [Week 11](./week11/README.md) | September 15 - 19, 2020 | Demo Chatty, Firebase, ERDS, JSON, axios |
 | [Week 12](./week12/README.md) | September 21 - 26, 2020 | tbd |
 | [Week 13](./week13/README.md) | September 28 - October 3, 2020 | BREAK |
 | [Week 14](./week14/README.md) | October 05 - 10, 2020 | tdb |
