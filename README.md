@@ -14,7 +14,7 @@
 | [Week 9](./week09/README.md) | August 31 - September 5, 2020 | Task runners, SASS |
 | [Week 10](./week10/README.md) | September 07 - 12, 2020 | :speech_balloon: Group Project - Chatty :speech_balloon:|
 | [Week 11](./week11/README.md) | September 15 - 19, 2020 | Demo Chatty, Firebase, ERDS, JSON, axios |
-| [Week 12](./week12/README.md) | September 21 - 26, 2020 | tbd |
+| [Week 12](./week12/README.md) | September 21 - 26, 2020 | FB Read, FB Delete, Promises, Deploy |
 | [Week 13](./week13/README.md) | September 28 - October 3, 2020 | BREAK |
 | [Week 14](./week14/README.md) | October 05 - 10, 2020 | tdb |
 | [Week 15](./week15/README.md) | October 12 - 17, 2020 | tdb |
