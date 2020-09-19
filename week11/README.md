@@ -12,7 +12,7 @@
 
 ## Saturday
 > **Agenda:** **Lab Day** - Intro to Firebase, Firebase Auth, JSON, axios, Postman
-[Code Along](https://github.com/nss-evening-cohort-13/firebase-cows/blob/master/README.md)
+- [Code Along](https://github.com/nss-evening-cohort-13/firebase-cows/blob/master/README.md)
 ---
 # HW Week 11
 
