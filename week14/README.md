@@ -11,7 +11,7 @@
 > **Agenda:** CRUD review, exercises
 
 ## Saturday
-> **Agenda:** Exercises
+> **Agenda:** Nutshell Planning
 
 # HW Week 14
 
