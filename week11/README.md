@@ -11,7 +11,7 @@
 > **Agenda:** CDS Talk, Demo Chatty, ERDS
 
 ## Saturday
-> **Agenda:** **Lab Day** - Intro to Firebase, Firebase Auth, JSON, axios
+> **Agenda:** **Lab Day** - Intro to Firebase, Firebase Auth, JSON, axios, Postman
 ---
 # HW Week 11
 
