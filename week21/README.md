@@ -24,4 +24,4 @@ Previously assigned
   * Yup still needs to be done!
   
 ## Capstone!!!!
-1. [Initial Proposal](https://github.com/nss-evening-cohort-12/capstone-central/blob/main/02_initial-proposal.md) - Due on the 28th, read through each file in the repo and make sure to ask questions as you have them!!!!
+1. [Initial Proposal](https://github.com/nss-nightclass-projects/capstone-central/blob/master/02_initial-proposal.md) - Due on the 28th, read through each file in the repo and make sure to ask questions as you have them!!!!
