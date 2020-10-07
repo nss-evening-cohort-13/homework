@@ -14,14 +14,14 @@
 | [Week 9](./week09/README.md) | August 31 - September 5, 2020 | Task runners, SASS |
 | [Week 10](./week10/README.md) | September 07 - 12, 2020 | :speech_balloon: Group Project - Chatty :speech_balloon:|
 | [Week 11](./week11/README.md) | September 15 - 19, 2020 | Demo Chatty, Firebase, ERDS, JSON, axios |
-| [Week 12](./week12/README.md) | September 21 - 26, 2020 | tbd |
+| [Week 12](./week12/README.md) | September 21 - 26, 2020 | FB Read, FB Delete, Promises, CRUD |
 | [Week 13](./week13/README.md) | September 28 - October 3, 2020 | BREAK |
-| [Week 14](./week14/README.md) | October 05 - 10, 2020 | tdb |
-| [Week 15](./week15/README.md) | October 12 - 17, 2020 | tdb |
-| [Week 16](./week16/README.md) | October 19 - 24, 2020 | tdb |
-| [Week 17](./week17/README.md) | October 26 - 31, 2020 | tdb |
-| [Week 18](./week18/README.md) | November 02 - 07, 2020 | tdb |
-| [Week 19](./week19/README.md) | November 09 - 14, 2020 | tdb |
-| [Week 20](./week20/README.md) | November 16 - 21, 2020 | tdb |
-| [Week 21](./week21/README.md) | November 23 - 28, 2020 | tdb |
+| [Week 14](./week14/README.md) | October 05 - 10, 2020 | Deploy, Learning sessions, Nutshell Planning |
+| [Week 15](./week15/README.md) | October 12 - 17, 2020 | Nutshell |
+| [Week 16](./week16/README.md) | October 19 - 24, 2020 | Nutshell |
+| [Week 17](./week17/README.md) | October 26 - 31, 2020 | Nutshell Presentations, Intro to React |
+| [Week 18](./week18/README.md) | November 02 - 07, 2020 | REACT |
+| [Week 19](./week19/README.md) | November 09 - 14, 2020 | REACT |
+| [Week 20](./week20/README.md) | November 16 - 21, 2020 | REACT |
+| [Week 21](./week21/README.md) | November 23 - 28, 2020 | REACT |
 | [Weeks 22 - 25](./weeks22-25) | November 30 - December 14, 2020 | CAPSTONES |

@@ -5,15 +5,10 @@
 > **Agenda:** React + CREATE
 
 ## Tuesday
-> **Agenda:** React + UPDATE
+> **Agenda:** Capstone Talk | React + UPDATE
 
 ## Saturday
 > **Agenda:** React Routing/Auth
-
-* **Day 1** - John Career Talk | 
-* **Day 2** - Capstone Talk | 
-* **HW** - Sports Roster CREATE/UPDATE, Capstone Proposals, Personal Bio Site 4
-* **Lab Day** - 
 
 # HW Week 20
 ## Study Group Assignment:

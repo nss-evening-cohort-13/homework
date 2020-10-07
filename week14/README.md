@@ -5,13 +5,13 @@
 - [Homework](#hw-week-14)
 
 ## Monday
-> **Agenda:** Firebase create
+> **Agenda:** Deployment, exercises
 
 ## Tuesday
-> **Agenda:** firebase Update
+> **Agenda:** CRUD review, exercises
 
 ## Saturday
-> **Agenda:** Exercises
+> **Agenda:** Nutshell Planning
 
 # HW Week 14
 
