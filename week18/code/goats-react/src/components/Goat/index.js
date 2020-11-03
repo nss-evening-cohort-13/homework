@@ -16,7 +16,7 @@ export default class Goat extends Component {
     const { isBusy } = this.state;
 
     return (
-      <div className='Goat col-3' id={goat.id}>
+      <div className='Goat col-md-3 mb-3' id={goat.id}>
         <div className='card'>
           <img src={goat.imgUrl} className='card-img-top' alt='...' />
           <div className='card-body'>

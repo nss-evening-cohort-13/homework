@@ -22,7 +22,7 @@ class GoatCorral extends Component {
     );
 
     return (
-      <div>
+      <div className='GoatCoral d-flex flex-wrap'>
         {renderGoatToDom()}
       </div>
     );
