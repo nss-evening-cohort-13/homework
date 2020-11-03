@@ -6,6 +6,11 @@
 
 ## Monday
 > **Agenda:** React State and Props
+[Goats React](./code/goats-react)
+- Create App, GoatCorral, and Goat components
+- Called API into GoatCorral to get goats and updated state with the response
+- In GoatCorral, we mapped over the array of goat objects and passed in the Goat component
+- In Goat, we added an `onClick` event to watch for the button click and change state to re-render the button
 
 ## Tuesday
 > **Agenda:** React State and Props
