@@ -1,6 +1,13 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+import goatShape from '../../helpers/propz/goatShape';
 
 export default class Goat extends Component {
+  static propTypes = {
+    goat: goatShape,
+    removeGoat: PropTypes.func,
+  }
+
   state = {
     isBusy: this.props.goat.isBusy,
   }
@@ -12,7 +19,7 @@ export default class Goat extends Component {
   }
 
   render() {
-    const { goat } = this.props;
+    const { goat, removeGoat } = this.props;
     const { isBusy } = this.state;
 
     return (
@@ -31,6 +38,7 @@ export default class Goat extends Component {
               <button className='btn btn-danger' onClick={this.updateGoat}>Goat in Use</button>
             )
             }
+            <button className='btn btn-danger' id={goat.id} onClick={(e) => removeGoat(e)}>REMOVE GOAT</button>
           </div>
         </div>
       </div>
