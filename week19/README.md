@@ -6,7 +6,7 @@
 
 ## Monday
 > **Agenda:** React + AUTH
-(CODE)[https://github.com/nss-evening-cohort-13/react-pinterest]
+- [CODE](https://github.com/nss-evening-cohort-13/react-pinterest)
 
 ## Tuesday
 > **Agenda:** React + READ
