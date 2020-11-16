@@ -14,7 +14,6 @@ In a few short days we'll start our journey together to learn the basics of mode
 1. Install Google Chrome if you haven't already
 1. Visit [Zoom](https://zoom.us/) and sign up with the same email address you gave to NSS
 1. Download the [Zoom Client For Meetings](https://zoom.us/download#client_4meeting) and login to your zoom account there as well
-1. **NEW:** Download the [Kahoot app](https://kahoot.com/home/mobile-app/) from the App Store on your iOS or Android Device.
 
 Typically we would do this on the second day of class. We'd break out to Windows/Mac groups and power through it. If you feel confident in your abilities to follow written instructions/use the terminal, please do so:
 1. [Mac Installs](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/setup.md#installs-for-mac---osx)
