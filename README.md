@@ -24,4 +24,5 @@
 | [Week 19](./week19/README.md) | November 09 - 14, 2020 | REACT |
 | [Week 20](./week20/README.md) | November 16 - 21, 2020 | REACT |
 | [Week 21](./week21/README.md) | November 23 - 28, 2020 | REACT |
-| [Weeks 22 - 25](./weeks22-25) | November 30 - December 14, 2020 | CAPSTONES |
+| [Week 22](./week21/README.md) | November 30 - December 04, 2020 | REACT |
+| [Weeks 23 - 24](./weeks22-25) | December 7 - December 19, 2020 | CAPSTONES |
